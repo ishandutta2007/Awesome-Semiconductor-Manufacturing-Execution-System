@@ -37,53 +37,24 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 ## SaaS/Hosted Platforms
 
-* **Siemens Opcenter Execution Semiconductor**
-  Semiconductor-specific MES covering production execution, throughput, yield, cost, equipment connectivity, quality, traceability, scheduling and digital-twin-enabled optimization. ([Siemens][1])
-
-* **Siemens Opcenter Execution / Camstar**
-  Enterprise MES platform with strong semiconductor, electronics and discrete-manufacturing capabilities, including manufacturing workflows, genealogy, quality and production management.
-
-* **Critical Manufacturing MES**
-  Modern MES platform with a strong focus on semiconductor and electronics manufacturing, equipment integration, production tracking, genealogy, quality, scheduling and Industry 4.0.
-
-* **Applied Materials SmartFactory**
-  Semiconductor-factory automation and manufacturing intelligence ecosystem integrating equipment, factory data, process control, analytics and production optimization.
-
-* **ABB Ability MES**
-  Manufacturing execution and production-management capabilities integrated into ABB's industrial digitalization ecosystem.
-
-* **GE Vernova Proficy MES**
-  Enterprise manufacturing execution platform covering production management, quality, performance, traceability, workflow and plant-floor integration.
-
-* **Rockwell Automation FactoryTalk ProductionCentre / MES**
-  Manufacturing execution and production-management ecosystem integrated with Rockwell Automation's FactoryTalk and industrial automation portfolio.
-
-* **Parsec TrakSYS**
-  Manufacturing operations management/MES platform covering production, quality, performance, downtime, traceability and plant-floor data collection.
-
-* **42Q**
-  Cloud-native manufacturing execution and manufacturing-data platform designed for connected manufacturing operations and distributed production environments.
-
-* **FORCAM FORCE MES**
-  Manufacturing execution and performance-management platform focused on shop-floor transparency, OEE, production performance, machine connectivity and continuous improvement.
-
-* **Honeywell Manufacturing Execution Systems**
-  Industrial manufacturing execution and process-management technologies supporting production, quality, process control and operational data.
-
-* **Dassault Systèmes DELMIA Apriso**
-  Global manufacturing operations management/MES platform covering production, quality, warehouse, maintenance and supply-chain execution.
-
-* **AVEVA Manufacturing Execution System**
-  MES/MOM capabilities integrating production execution, operations, quality, performance and industrial data.
-
-* **Körber Werum PAS-X**
-  Manufacturing execution platform widely used in regulated manufacturing and increasingly relevant to complex production traceability and electronic batch/process execution.
-
-* **SAP Digital Manufacturing**
-  Cloud manufacturing execution and operations platform connecting ERP, production processes, shop-floor data, quality and analytics.
-
-* **Honeywell Momentum**
-  Manufacturing operations/MES technology supporting production and operational execution in industrial environments.
+| Platform Name | Capabilities & Description | Starting Pricing | Free Tier / Trial Limits |
+| :--- | :--- | :--- | :--- |
+| **Siemens Opcenter Execution Semiconductor** | Semiconductor-specific MES covering production execution, throughput, yield, cost, equipment connectivity, quality, traceability, scheduling and digital-twin-enabled optimization. ([Siemens][1]) | Starts at $1,000/mo (entry cloud modules); $75,000/yr enterprise base | 30-day free trial via Siemens Opcenter preconfigured cloud sandbox environment |
+| **Siemens Opcenter Execution / Camstar** | Enterprise MES platform with strong semiconductor, electronics and discrete-manufacturing capabilities, including manufacturing workflows, genealogy, quality and production management. | Starts at $1,000/mo (scheduling/execution modules); $50,000/yr enterprise base | 30-day free trial for Opcenter Scheduling Standard cloud sandbox |
+| **Critical Manufacturing MES** | Modern MES platform with a strong focus on semiconductor and electronics manufacturing, equipment integration, production tracking, genealogy, quality, scheduling and Industry 4.0. | Starts at $2,500/mo per line (ScaleUp subscription program); $60,000/yr base | 30-day evaluation trial via Early Adopter sandbox program |
+| **Applied Materials SmartFactory** | Semiconductor-factory automation and manufacturing intelligence ecosystem integrating equipment, factory data, process control, analytics and production optimization. | Starts at $5,000/mo (process control/analytics); $100,000/yr enterprise suite | 30-day guided POC cloud trial environment for enterprise evaluations |
+| **ABB Ability MES** | Manufacturing execution and production-management capabilities integrated into ABB's industrial digitalization ecosystem. | Starts at $1,500/mo for entry plant subscriptions on ABB Ability Marketplace | 30-day free trial on selected ABB Ability Marketplace condition-monitoring modules |
+| **GE Vernova Proficy MES** | Enterprise manufacturing execution platform covering production management, quality, performance, traceability, workflow and plant-floor integration. | Starts at $1,500/mo subscription tier ($5,000 base module license) | 30-day evaluation trial with 2-hour continuous runtime demo resets |
+| **Rockwell Automation FactoryTalk ProductionCentre / MES** | Manufacturing execution and production-management ecosystem integrated with Rockwell Automation's FactoryTalk and industrial automation portfolio. | Starts at $2,000/mo subscription tier ($15,000 base server + $250/user/mo) | 30-day hands-on lab environment trial via Rockwell Cloud Demo Portal |
+| **Parsec TrakSYS** | Manufacturing operations management/MES platform covering production, quality, performance, downtime, traceability and plant-floor data collection. | Starts at $1,999/mo (Essentials tier; up to $15,999+/mo Ultimate tier) | 14-day interactive sandbox trial with pre-loaded sample plant datasets |
+| **42Q** | Cloud-native manufacturing execution and manufacturing-data platform designed for connected manufacturing operations and distributed production environments. | Starts at $500/mo per facility ($1,500/mo standard multi-line tier) | 90-day fixed-cost Proof of Concept (POC) trial (includes 30-day free sandbox) |
+| **FORCAM FORCE MES** | Manufacturing execution and performance-management platform focused on shop-floor transparency, OEE, production performance, machine connectivity and continuous improvement. | Starts at $1,200/mo per plant connector package ($15,000/yr platform base) | 30-day guided cloud evaluation trial for plant connectivity & OEE |
+| **Honeywell Manufacturing Execution Systems** | Industrial manufacturing execution and process-management technologies supporting production, quality, process control and operational data. | Starts at $2,500/mo per plant site subscription tier ($40,000/yr base) | 30-day evaluation trial in Honeywell Experion/MES cloud sandbox |
+| **Dassault Systèmes DELMIA Apriso** | Global manufacturing operations management/MES platform covering production, quality, warehouse, maintenance and supply-chain execution. | Starts at $3,500/mo per plant subscription ($50,000/yr base MOM license) | 30-day virtual sandbox trial access for enterprise evaluation teams |
+| **AVEVA Manufacturing Execution System** | MES/MOM capabilities integrating production execution, operations, quality, performance and industrial data. | Starts at $1,800/mo via AVEVA Flex subscription units ($25,000/yr base) | 30-day evaluation trial with sample project templates in AVEVA Connect |
+| **Körber Werum PAS-X** | Manufacturing execution platform widely used in regulated manufacturing and increasingly relevant to complex production traceability and electronic batch/process execution. | Starts at $4,000/mo for cloud-based PAS-X Lite starting tier ($60,000/yr base) | 30-day preconfigured cloud sandbox trial for batch/recipe execution |
+| **SAP Digital Manufacturing** | Cloud manufacturing execution and operations platform connecting ERP, production processes, shop-floor data, quality and analytics. | Starts at $105/resource/mo (Entry tier starting at 30 resources; ~$3,150/mo base) | 30-day test tenant subscription via SAP Store evaluation sandbox |
+| **Honeywell Momentum** | Manufacturing operations/MES technology supporting production and operational execution in industrial environments. | Starts at $2,000/mo subscription tier ($24,000/yr base platform) | 30-day guided cloud trial environment with pre-built data pipelines |
 
 ## Open-Source GitHub Projects
 
